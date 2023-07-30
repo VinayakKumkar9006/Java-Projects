@@ -1,0 +1,14 @@
+package maccess;
+  public class Loops {
+	public static void main(String args[]) {
+    int n=0;
+    for(int i=5;i>=n;i--) {
+    	for(int j=5;j>=n-i+1;j--) {
+    		System.out.print(j+" ");
+    	}
+    	System.out.println();
+    }
+	
+	
+	}
+  }

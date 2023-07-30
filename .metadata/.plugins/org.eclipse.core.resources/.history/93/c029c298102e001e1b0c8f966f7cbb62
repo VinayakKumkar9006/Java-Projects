@@ -1,0 +1,30 @@
+package maccess;
+
+import java.util.Scanner;
+
+public class ReverseString {
+
+	public static void main(String[] args) {
+	
+		//Approach 1
+		String str;
+		System.out.print("Enter the String..");
+		Scanner s = new Scanner(System.in);
+		String r =s.nextLine();
+		
+	//Approach 1
+		char[] chArr = r.toCharArray();
+		for(int i=r.length()-1; i>=0; i--) {
+			
+			System.out.print(chArr[i]+" ");
+		}
+
+		
+		//Approach 2
+		for (int i=r.length()-1; i>=0; i--) {
+			
+			System.out.println(r.charAt(i));
+		}
+	}
+
+}

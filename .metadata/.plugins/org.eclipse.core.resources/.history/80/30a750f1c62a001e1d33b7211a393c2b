@@ -1,0 +1,25 @@
+package maccess;
+
+import java.util.HashMap;
+import java.util.Map;
+
+public class LearnMap {
+
+	public static void main(String[] args) {
+		
+		
+		Map<String, Integer> numbers = new HashMap<>();
+		numbers.put("one",1);
+		numbers.put("two", 2);
+		numbers.put("Three",3);
+		
+		//if(!numbers.containsKey("two")) {
+		//numbers.put("two",23);
+		
+		numbers.putIfAbsent("two", 23);
+		
+		System.out.println(numbers);
+
+	}
+
+}

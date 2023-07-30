@@ -1,0 +1,24 @@
+package maccess;
+
+import java.util.Scanner;
+
+public class Tribonacci {
+
+	
+	//Tribonacci Series = 0+1+2 = 3
+	public static void main(String[] args) {
+		int a =0,b=1,c=2, d,term;
+		System.out.println("Inter Term");
+        Scanner r = new Scanner(System.in);
+        term=r.nextInt();
+        
+        for(int i=0; i<=term; i++) {
+        	System.out.println(a);
+        	d=a+b+c;
+        	a=b;
+        	b=c;
+        	c=d;
+        }
+	}
+
+}

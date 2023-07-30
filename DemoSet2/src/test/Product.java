@@ -1,0 +1,30 @@
+package test;
+
+public class Product extends Object implements Comparable {
+
+	@SuppressWarnings("rawtypes")
+	public int code;
+	public String name;
+	public float price;
+	public int qty;
+	
+	public Product(int code, String name, float price, int qty) {
+		super();
+		this.code = code;
+		this.name = name;
+		this.price = price;
+		this.qty = qty;
+	}
+	public String toString() 
+	{
+		return code+"\t"+name+"\t"+price+"\t"+qty;
+		
+	}
+	@Override
+	public int compareTo(Object o) {
+		Product pr = (Product)o;
+		if(code==pr.code) return 0;
+		else if(code>pr.code)return 1;
+		else return -1;
+	}
+}

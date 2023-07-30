@@ -1,0 +1,48 @@
+package maccess;
+
+import java.util.HashSet;
+import java.util.LinkedHashSet;
+import java.util.Set;
+import java.util.TreeSet;
+
+public class Learnset {
+
+	public static void main(String [] args) {
+	
+		
+		Set<Student> studentset = new HashSet<>();
+		studentset.add(new Student("Anuj",2));
+		studentset.add(new Student("Ramesh",4));
+		studentset.add(new Student("Shivam",3));
+		
+		Student s1 = new Student("Rohit",2);
+		Student s2 = new Student("anuj",2);
+		System.out.println(s1.equals(s2));
+		
+		System.out.println();
+		System.out.println(studentset);
+		
+		
+		
+	/*//Set<Integer> set = new LinkedHashSet<>();
+	set.add(25);
+	set.add(85);
+	set.add(98);
+	set.add(65);
+	set.add(16);
+	
+	
+	set.add(16);
+	System.out.println(set);
+	 
+	set.remove(98);
+	System.out.println(set);
+	System.out.println(set.contains(85));
+	System.out.println(set.isEmpty());
+	
+	System.out.println(set.size());
+	set.clear();
+	System.out.println(set);*/
+	}
+	
+}

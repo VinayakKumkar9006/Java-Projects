@@ -1,0 +1,11 @@
+package maccess;
+
+public class WrapperClass3 {
+
+	public static void main(String[] args) {
+		Integer ob1 = 12;
+		
+
+	}
+
+}

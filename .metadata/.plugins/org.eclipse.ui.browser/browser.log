@@ -1,0 +1,73 @@
+
+Jun 14, 2023 13:32:07.218 NEW SESSION
+Jun 14, 2023 13:32:07.218 [10988:6476:0614/133207.215:ERROR:chrome_browser_cloud_management_controller.cc(162)] Cloud management controller initialization aborted as CBCM is not enabled.
+Jun 14, 2023 13:32:10.784 [10988:6476:0614/133210.783:ERROR:edge_auth_errors.cc(486)] EDGE_IDENTITY: Get Default OS Account failed: Error: Primary Error: kTokenRequestFailed, Secondary Error: kTokenFetchUserInteractionRequired, Platform error: -2138701818, hex:80860006, Error string: Error code: 0x80860006, error message:Error
+Jun 14, 2023 13:32:10.785 
+
+Jul 05, 2023 13:34:44.898 NEW SESSION
+Jul 05, 2023 13:34:44.898 [8592:14608:0705/133444.897:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Jul 05, 2023 14:00:45.981 [8592:14608:0705/140045.981:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -7
+Jul 05, 2023 14:00:48.42 [8592:14608:0705/140048.042:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jul 05, 2023 14:00:51.305 [8592:14608:0705/140051.305:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jul 05, 2023 14:00:54.533 [8592:14608:0705/140054.533:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jul 05, 2023 14:03:55.336 [8592:14608:0705/140355.336:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jul 05, 2023 14:10:19.901 [8592:14608:0705/141019.901:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jul 05, 2023 14:20:19.911 [8592:14608:0705/142019.911:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jul 05, 2023 14:20:42.91 [8592:14608:0705/142042.091:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jul 05, 2023 14:20:48.559 [8592:14608:0705/142048.559:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jul 05, 2023 14:35:29.597 [8592:14608:0705/143529.597:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jul 05, 2023 14:35:29.650 [8592:14608:0705/143529.650:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jul 05, 2023 14:35:37.233 [8592:14608:0705/143537.232:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jul 05, 2023 14:35:41.31 [8592:14608:0705/143541.030:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+
+Jul 05, 2023 15:10:45.896 NEW SESSION
+Jul 05, 2023 15:10:45.897 [14668:11572:0705/151045.895:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jul 05, 2023 15:11:14.874 [14668:11572:0705/151114.874:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jul 05, 2023 15:11:15.200 [14668:12516:0705/151115.200:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-105).
+Jul 05, 2023 15:12:13.673 [14668:11572:0705/151213.672:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jul 05, 2023 15:14:10.112 [14668:11572:0705/151410.112:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jul 05, 2023 15:17:39.218 [14668:11572:0705/151739.218:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jul 05, 2023 15:20:52.845 [8100:15892:0705/152052.845:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jul 05, 2023 15:21:16.440 [8100:15892:0705/152116.440:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jul 05, 2023 15:22:01.03 [8100:15892:0705/152201.002:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jul 05, 2023 15:23:47.303 [8100:15892:0705/152347.302:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jul 05, 2023 15:26:41.45 [8100:15892:0705/152641.045:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jul 05, 2023 15:33:50.841 [8100:15892:0705/153350.841:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jul 05, 2023 16:04:59.541 [8100:15892:0705/160459.541:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jul 05, 2023 16:04:59.564 [8100:15892:0705/160459.564:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jul 05, 2023 16:05:06.214 [8100:15892:0705/160506.214:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jul 05, 2023 16:05:12.30 [8100:15892:0705/160512.030:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jul 05, 2023 16:15:12.33 [8100:15892:0705/161512.032:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jul 05, 2023 16:25:12.44 [8100:15892:0705/162512.044:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jul 05, 2023 16:31:32.562 [8100:15892:0705/163132.562:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jul 05, 2023 16:31:38.773 [8100:15892:0705/163138.772:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jul 05, 2023 16:31:43.535 [8100:15892:0705/163143.535:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jul 05, 2023 16:41:43.541 [8100:15892:0705/164143.541:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jul 05, 2023 16:51:43.553 [8100:15892:0705/165143.552:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jul 05, 2023 17:01:43.565 [8100:15892:0705/170143.565:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jul 05, 2023 17:11:43.573 [8100:15892:0705/171143.572:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jul 05, 2023 17:21:43.592 [8100:15892:0705/172143.592:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jul 05, 2023 18:00:39.486 [8100:15892:0705/180039.486:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jul 05, 2023 18:00:39.527 [8100:15892:0705/180039.527:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jul 05, 2023 18:00:46.596 [8100:15892:0705/180046.596:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jul 05, 2023 18:00:51.43 [8100:15892:0705/180051.043:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jul 05, 2023 18:10:51.49 [8100:15892:0705/181051.049:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jul 05, 2023 18:18:37.431 [8100:15892:0705/181837.431:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jul 05, 2023 18:18:42.911 [8100:15892:0705/181842.911:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jul 05, 2023 18:28:42.927 [8100:15892:0705/182842.926:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jul 05, 2023 18:38:42.943 [8100:15892:0705/183842.943:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jul 05, 2023 18:48:42.953 [8100:15892:0705/184842.953:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jul 05, 2023 18:58:42.962 [8100:15892:0705/185842.961:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jul 05, 2023 19:47:05.558 [8100:15892:0705/194705.557:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jul 05, 2023 19:47:05.590 [8100:15892:0705/194705.590:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jul 05, 2023 19:47:12.290 [8100:15892:0705/194712.289:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jul 05, 2023 19:47:18.31 [8100:15892:0705/194718.031:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jul 05, 2023 19:57:18.40 [8100:15892:0705/195718.039:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jul 05, 2023 20:07:18.60 [8100:15892:0705/200718.060:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jul 05, 2023 20:17:18.70 [8100:15892:0705/201718.070:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jul 05, 2023 20:27:18.81 [8100:15892:0705/202718.081:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jul 05, 2023 22:43:47.636 [8100:15892:0705/224347.636:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jul 05, 2023 22:44:58.450 [8100:15892:0705/224458.450:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jul 05, 2023 22:45:10.20 [8100:15892:0705/224510.020:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Jul 05, 2023 22:45:10.623 [8100:11036:0705/224510.622:ERROR:device_event_log_impl.cc(222)] [22:45:10.622] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Jul 05, 2023 22:45:12.28 [8100:15892:0705/224512.028:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
